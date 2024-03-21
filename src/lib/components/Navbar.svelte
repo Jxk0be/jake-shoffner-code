@@ -31,11 +31,11 @@
             <a href="/" on:click={() => handleClose()}><li class="px-4 duration-150 ease-in-out transition-all hover:text-[#38c5fd]">Home</li></a>
             <a href="about" on:click={() => handleClose()}><li class="px-4 duration-150 ease-in-out transition-all hover:text-[#38c5fd]">About</li></a>
             <a href="projects" on:click={() => handleClose()}><li class="px-4 duration-150 ease-in-out transition-all hover:text-[#38c5fd]">Projects</li></a>
-            <a href="experience" on:click={() => handleClose()}><li class="px-4 duration-150 ease-in-out transition-all hover:text-[#38c5fd]">Experience</li></a>
+            <a href="experience" on:click={() => handleClose()}><li class="pl-4 duration-150 ease-in-out transition-all hover:text-[#38c5fd]">Experience</li></a>
         </ul>
     
         <!-- Hamburger menu -->
-        <button class={`lg:hidden text-[35px] p-3 transition-all ease-in-out rounded-xl duration-150 ${!menuOpen ? '' : 'bg-[#0b0b0b]'}`} on:click={() => handleMenu()} >
+        <button class={`lg:hidden text-[35px] transition-all ease-in-out rounded-xl duration-150 ${!menuOpen ? '' : 'bg-[#0b0b0b]'}`} on:click={() => handleMenu()} >
             <Icon icon="lucide:menu" />
         </button>
     </div>
