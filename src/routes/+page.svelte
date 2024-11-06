@@ -12,16 +12,15 @@
         <h1>I'm a&nbsp;</h1>
         <Typewriter mode="loop" interval={[66, 76, 74, 70, 63, 54, 63, 64, 74, 64]} cursor={false}>
             <h1 class="text-[#61BEFF]">Software Engineer...</h1>
-            <h1 class="text-[#61BEFF]">Graduate Student...</h1>
+            <h1 class="text-[#61BEFF]">Graphic Designer...</h1>
             <h1 class="text-[#61BEFF]">Problem Solver...</h1>
         </Typewriter>
     </div>
     <p class="md:text-xl text-lg leading-[1.75rem] pb-4">
         I'm currently working on some exciting things over at
         <a class="text-[#61BEFF] font-semibold hover:text-[#4E98CC] transition-all duration-300 ease-in-out" href="https://pilotflyingj.com/" target="_blank">Pilot</a>.
-        Mostly working with SvelteKit on the frontend side of things. In Summer of 2024, I'm also starting my
-        graduate studies &#x1F393 in <a class="text-[#61BEFF] font-semibold hover:text-[#4E98CC] transition-all duration-300 ease-in-out" href="https://onlinemscs.utk.edu/program/#concentrations" target="_blank">Data Mining & Intelligent Systems</a>
-        at the University of Tennessee, Knoxville.
+        Mostly working with SvelteKit on the frontend side of things. I'm also working on fun small projects all the time, you should definitely 
+        check out my Github!
     </p>
     <p class="md:text-xl text-lg leading-[1.75rem] pb-4">
         This website is a reimagining of my old React site I made when I was first Learning
