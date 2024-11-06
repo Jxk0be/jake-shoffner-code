@@ -27,13 +27,17 @@
                             <div class="w-full h-full p-[0.5rem] flex flex-col justify-start items-center">
                                 <div class="w-full text-[16px] text-[#d8d6d6] flex flex-col gap-2 px-3">
                                     <li>
-                                        Collaborate within an AGILE environment, interfacing with developers,
-                                        project managers, stakeholders, designers, and QA testers to deliver top-tier
-                                        products.
+                                        Contributing to the development and launch of Prime 3.0, allowing nationwide parking reservations.
                                     </li>
                                     <li>
-                                        Actively enhance code efficiency and quality to boost performance
-                                        and overall user engagement.
+                                        Working on interactive features, extensively on a geographical map and location search system (with Google Maps API).
+                                    </li>
+                                    <li>
+                                        Integrating CMS data into our application to allow non-Developers to manage page content.
+                                    </li>
+                                    <li>
+                                        Collaborating with designers and QA testers in an AGILE environment to ensure timely delivery of 
+                                        integrations.
                                     </li>
                                 </div>
                             </div>
