@@ -18,7 +18,7 @@
     </div>
     <p class="md:text-xl text-lg leading-[1.75rem] pb-4">
         I'm currently working on some exciting things over at
-        <a class="text-[#61BEFF] font-semibold hover:text-[#4E98CC] transition-all duration-300 ease-in-out" href="https://pilotflyingj.com/" target="_blank">Pilot</a>.
+        <a class="text-[#61BEFF] font-semibold hover:text-[#4E98CC] transition-all duration-300 ease-in-out" href="https://pilotflyingj.com/park" target="_blank">Pilot</a>.
         Mostly working with SvelteKit on the frontend side of things. I'm also working on fun small projects all the time, you should definitely 
         check out my Github!
     </p>
